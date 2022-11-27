@@ -2,8 +2,10 @@
 
 # We are Jexactyl.
 
-Jexactyl is an open-source, feature-rich fork of [Pterodactyl Panel](https://pterodactyl.io) which includes several features and improvements over existing software.
+Jexactyl is an open-source, feature-rich fork of [Pterodactyl](https://pterodactyl.io) which includes several features and improvements over existing software.
 It includes features such as:
+- UI/UX improvements
+  - 
 - User registration
   - Supports email and Discord OAuth methods
   - Users can be approved or denied by an admin (optional, configurable)
@@ -15,13 +17,10 @@ It includes features such as:
   - Referral system to grow your platform
   - Idle earning, to ensure user retention
 - Plugin Manager for Minecraft:tm: servers
-- A detailed, clean and fluent interface for admins and standard users
 - Server renewal system, to keep users active
-
-### ... and many, many more!
 
 ***
 
 Head to the [Jexactyl Documentation](https://docs.jexactyl.com) in order to get started with Jexactyl.
 
-*A project by [@cmrxnn](https://github.com/cmrxnn) 💙*
+*A project by [@cmrxnn](https://github.com/cmrxnn)*

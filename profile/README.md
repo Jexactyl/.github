@@ -4,8 +4,6 @@
 
 Jexactyl is an open-source, feature-rich fork of [Pterodactyl](https://pterodactyl.io) which includes several features and improvements over existing software.
 It includes features such as:
-- UI/UX improvements
-  - 
 - User registration
   - Supports email and Discord OAuth methods
   - Users can be approved or denied by an admin (optional, configurable)

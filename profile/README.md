@@ -1,4 +1,4 @@
-![image](https://cjsprojects.com/cdn/JexactylBanner.jpg)
+![Banner](Banner.jpg)
 
 # We are Jexactyl.
 

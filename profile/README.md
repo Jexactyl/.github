@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/1012411945141424218/1012430446556090468/JexactylBannerBasic.jpg)
+![image](https://cjsprojects.com/cdn/JexactylBanner.jpg)
 
 # We are Jexactyl.
 

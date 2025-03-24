@@ -6,4 +6,4 @@ Jexactyl is an open-source, feature-rich fork of [Pterodactyl](https://pterodact
 
 Head to the [Jexactyl Documentation](https://docs.jexactyl.com) in order to get started with Jexactyl.
 
-*A project by [@camw0](https://github.com/camw0)*
+*A project by [@camwhit-e](https://github.com/camwhit-e)*
